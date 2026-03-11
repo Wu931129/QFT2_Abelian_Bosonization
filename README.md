@@ -6,9 +6,9 @@ The project details the exact operator identity between Dirac fermions and scala
 
 ## 📂 Repository Contents
 
-* **[Abelian bosonization in 1+1 dimension-Term Paper](./Abelian_bosonization_in_1+1_dimension_termpaper.pdf)**
+* **[Abelian bosonization in 1+1 dimensions-Term Paper](./Abelian_bosonization_in_1+1_dimensions_termpaper.pdf)**
     A detailed review paper covering the rigorous derivation of the bosonization dictionary, the treatment of interactions via the "g-ology" scheme, and advanced applications to quantum spin chains.
-* **[Abelian bosonization in 1+1 dimension-Presentation slide](./Abelian_bosonization_in_1+1_dimension_presentation.pdf)**
+* **[Abelian bosonization in 1+1 dimensions-Presentation slide](./Abelian_bosonization_in_1+1_dimensions_presentation.pdf)**
     A slide deck summarizing the key physical intuitions, geometric arguments, and duality mappings discussed in the term paper.
 
 ## 🧠 Key Physics Concepts Covered
